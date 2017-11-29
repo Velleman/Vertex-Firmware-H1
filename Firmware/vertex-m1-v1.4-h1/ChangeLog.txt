@@ -1,0 +1,14 @@
+LED strips:
+	M420 RxExBx
+		R= red
+		E= Green
+		B= Blue
+	If x !=0 : led on
+	You do not have to put in all color values (ex: M420 RxBx)
+	You do not have to stick to the order (ex: M420 RxBxEx)
+	
+Bug fixes:
+	Fixed blocking menus
+	-Load filament
+	-Show firmware
+	
